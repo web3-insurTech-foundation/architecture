@@ -1,3 +1,3 @@
 # Payment Domain
 
-The Payment Domain explores the way money, either in the form of Premiums form the customers of claim payments form the insurer are transfered and accounted
+The Payment Domain explores the way money, either in the form of Premiums form the customers of claim payments form the insurer are transferred and accounted
