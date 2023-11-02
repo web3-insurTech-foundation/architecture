@@ -33,3 +33,5 @@ The Consumer applies for the Product, is underwritten and the Policy containing 
 - To facilitate new Product delivery and reduce development time, we can centralize the Categories and Cover Items.
 
 - For Risk items, we have replacement value or replace - we need to provide a methodology to allow the Product Manager to appropriately price the Risk items
+
+Refresh for 11/23

@@ -9,3 +9,5 @@ This is an asset that has been proven to exist.  This will need to be verified i
 
 ## Replacement Value
 The value to replace this Covered Item.  Items depreciate and hence their book value is always less than purchase price.  We need to provide a mechanism to the Product Management team to calculate Replacement Value - or substitute therein.
+
+Refresh for 11/23

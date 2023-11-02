@@ -28,3 +28,5 @@ stateDiagram-v2
 ```
 
 As we explore the relationships between different Insurance Domains as they pertain to Claims (ie, and auto claim versus home property claim), there are nuances around legal requirements, risk evaluation, quality of work etc.
+
+Refresh for 11/23

@@ -12,3 +12,5 @@ Able to accept liability on behalf of the Insurance Carrier
 
 ## Soliciting Agent
 Only able to seek insurance applicants, no authority to bind
+
+Refresh for 11/23

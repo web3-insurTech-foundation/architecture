@@ -42,3 +42,5 @@ We will explore each deeper below - but you will also find section in this repo 
 
 ## Insurance domain
 
+Refresh for 11/23
+

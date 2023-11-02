@@ -38,3 +38,6 @@ mindmap
       Valuation
       Attribution
 ```
+
+
+Refresh for 11/23
