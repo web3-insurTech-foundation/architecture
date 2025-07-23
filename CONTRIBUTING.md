@@ -12,7 +12,7 @@ You (or your employer) retain the copyright to your contribution; this simply
 gives us permission to use and redistribute your contributions as part of the
 project.
 
-If you or your current employer have already signed the Google CLA (even if it
+If you or your current employer have already signed the W3IF CLA (even if it
 was for a different project), you probably don't need to do it again.
 
 Visit <https://github.com/web3-insurTech-foundation/governance/blob/main/W3IF-Contributor%20Agreement%20(v1.1).pdf/> to see your current agreements or to
